@@ -1,0 +1,5 @@
+Yolo on Rpi
+https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md
+
+python3 TFLite_detection_webcam.py --modeldir=Sample_TFLite_model --edgetpu
+
