@@ -1,4 +1,5 @@
-String processor(const String& var){
+String processor(const String var){
   Serial.println(var);
-  return String(t);
-}
+  if(var == "serialmsg")
+    return String(t);
+  }
